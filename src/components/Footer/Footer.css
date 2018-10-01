@@ -2,7 +2,7 @@
   background: rgb(44, 42, 42);
   height: 100px;
   position: relative;
-  color: white;
+  color: whitesmoke;
   overflow: auto;
 }
 
@@ -14,6 +14,7 @@
   background:teal;
   padding: 8px;
   font-weight: 600;
+  font-family: 'Notable', sans-serif;
 }
 
 .footer > .bottom > img {

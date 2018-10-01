@@ -17,6 +17,7 @@
   display: inline-block;
   width: 50%;
   text-align: center;
+  font-family: 'Notable', sans-serif;
 }
 
 .navbar a {

@@ -8,7 +8,7 @@ const Nav = props => (
       <a className="navbar-brand" href="/React_ClickyGame">Vampirina Clicky Game</a>
       </li>
       <li>
-        <h1>Score: {props.score} | Top Score: {props.topScore}</h1>
+        <h1>Score  {props.score}  |  Top Score  {props.topScore}</h1>
       </li>
     </ul>
   </nav>
