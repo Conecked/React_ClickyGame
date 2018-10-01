@@ -16,7 +16,6 @@ The Vampirina React Clicky Game is a basic react app using create react app as i
 * [NodeJS](https://nodejs.org/en/) - The JavaScript runtime
 * [Express](https://github.com/expressjs/express) - The web framework for Node.js used
 * [Body-Parser](https://github.com/expressjs/body-parser) - The Node.js body parsing middleware used
-* [MaterializeCSS](https://materializecss.com/) - The web framework used
 * [Visual Studio Code](https://code.visualstudio.com/) - The text editor used
 * [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS) - The stylesheet language used
 * [React](https://reactjs.org/) - A JavaScript library for building user interfaces
