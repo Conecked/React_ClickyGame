@@ -2,8 +2,8 @@
 
 The Vampirina React Clicky Game is a basic react app using create react app as its framework. You will click on an image and try to get the click as many as you can without repeating an image. The app will track your score and current top score. I did create this in an effort to see if it caught my daughters attention, please don't mind the characters/theme
 
-<p style="center">
-  <img width="600" height="200" src="/public/images/clickyGame.png">
+<p align="center">
+  <img width="600" height="600" src="/public/images/clickyGame.png">
 </p>
 
 ## Getting Started
