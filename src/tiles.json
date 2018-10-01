@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/Boris.jpg",
+    "image": "/images/Boris.jpg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/assets/images/Oxana.jpg",
+    "image": "/images/Oxana.jpg",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/assets/images/Gregoria.jpg",
+    "image": "/images/Gregoria.jpg",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/assets/images/Demi_happy.jpg",
+    "image": "/images/Demi_happy.jpg",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/assets/images/Poppy.jpg",
+    "image": "/images/Poppy.jpg",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "/assets/images/Bridget.jpg",
+    "image": "/images/Bridget.jpg",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/assets/images/Nanpire3.jpg",
+    "image": "/images/Nanpire3.jpg",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/assets/images/Creepy_Caroline.jpg",
+    "image": "/images/Creepy_Caroline.jpg",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "/assets/images/Vampirina.jpg",
+    "image": "/images/Vampirina.jpg",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "/assets/images/LittleTerror.png",
+    "image": "/images/LittleTerror.png",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "/assets/images/Werewolf_Wolfie.jpg",
+    "image": "/images/Werewolf_Wolfie.jpg",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "/assets/images/vampirina-family.jpg",
+    "image": "/images/vampirina-family.jpg",
     "clicked": false
   }
 ]
