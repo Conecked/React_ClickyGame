@@ -41,10 +41,13 @@ class Game extends Component {
         topScore: this.state.score === this.state.topScore
           ? this.state.topScore + 1
           : this.state.topScore,
-        tiles: newTiles
+        tiles: this.state.tiles.sort(() => {
+          return 0.5 - Math.random();
+        })
       })
     }
   }
+
 
   render() {
     return (
